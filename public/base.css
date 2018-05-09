@@ -4849,13 +4849,13 @@ figcaption {
     }
 }
 
-#layout--homepage .type--team .wrapper--header h2 {
+/* #layout--homepage .type--team .wrapper--header h2 {
     position: absolute;
     top: 0;
     left: 0;
     z-index: 2;
     width: 100%
-}
+} */
 
 #layout--homepage .type--team .wrapper--header h2 .index {
     top: -.27273rem
@@ -4872,13 +4872,13 @@ figcaption {
     }
 }
 
-#layout--homepage .type--team .wrapper--header h2 .title {
+/* #layout--homepage .type--team .wrapper--header h2 .title {
     position: relative;
     top: -2.86364rem;
     right: 5.45455rem;
     z-index: 2;
     font-size: 1.36364rem;
-}
+} */
 
 @media (max-width: 47.99em) and (orientation:portrait) {
     #layout--homepage .type--team .wrapper--header h2 .title {
