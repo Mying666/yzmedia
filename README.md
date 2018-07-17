@@ -1,1 +1,1 @@
- [首页](https://mying666.github.io/yzmedia/index)
+ 1[首页](https://mying666.github.io/yzmedia/index)
